@@ -56,7 +56,7 @@ There was the median surface temperature and mean surface temperature 14.30 &deg
 The boxplot summarizes the distribution of average surface temperature values. There is an outliler, but we does not remove.
 
 <p align ="center">
-<img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/scatterplot_of_temperature_vs_fossil_fuel.png" width = "500"
+<img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/time_series_plot_of_temperature_vs_fossil_fuel.png" width = "500"
     </p>
     
 

@@ -12,7 +12,7 @@ The analysis focuses on identifying trends, relationship, and patterns in climat
 - data source: https://ourworldindata.org/
 - Key Variables:
     Global average surface temperature
-    Global CO2 emission
+    Global CO<sub>2</sub> emission
     Global fossil fuel consumption
     Nitrogen fertilizers in agriculture
 
@@ -29,15 +29,24 @@ The study follows these steps:
 - Check pearson correlatons for each them
 
 ### Time series plots
-- Used to analyze temperature, CO2 emission,Fossil fuel consumption, and Nitrogen fertilizers trends over time
+- Used to analyze temperature, CO<sub>2</sub> emission,Fossil fuel consumption, and Nitrogen fertilizers trends over time
 - Helps to understand upwards and seasonal patterns
 
 ## Tools
--R (Tidyverse, ggplot, readxl)
--Minitab 16
+- ggplot
+- Tidyverse
+- Minitab 16
 
 ## Results
+Let's we see how be the descriptive analysis for Surface Temperature;
+| Statistics | Values (&deg;C) |
+|------------|-----------------|
+| <p align="center"> Median | 14.30139 |
+| <p align="center"> Mean   | 14.33021 |
+| <p align="center"> Minimum | 13.84963 |
+| <p align="center"> Maximum | 15.09097 |
 
-    
+There was the median surface temperature and mean surface temperature 14.30 &deg;C and 14.33 &deg;C respectivly.
+
 
 

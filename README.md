@@ -65,7 +65,7 @@ P-Value = 0.000 </strong> <br>
 The scatterplot shows a positive linear relationship between Average temperature and Fosill fuel consumption with strong upward pattern can be obseved. The Pearson correlation coefficint is used to measure to the strength and direction of this linear relationship.
 
 <p align ="center">
-<img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/scatterplot of nitrogen fertilizers" width = "500"
+<img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/temperature_vs_Nitrogen_Fertilizers.png" width = "500"
     </p>
     
 

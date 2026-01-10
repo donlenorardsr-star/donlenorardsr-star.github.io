@@ -69,9 +69,9 @@ The scatterplot shows a positive linear relationship between Average temperature
 <img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/scatterplot_of_temperature_vs_anual_carbondioxide_emission.png" width = "500"
     </p>
     
-<strong> Pearson correlation of Average surface temperature and Nitrogen Fertilizers = 0.830 <br>
+<strong> Pearson correlation of Average surface temperature and annual carbondioxide emission = 0.761 <br>
 P-Value = 0.000</strong> <br>
-This scatterplot shows also a positive linear relationship between average temperature and using nitrogrn fertilizers in agriculture. The pearson correlation has 0.830 strong value. <br>
+This scatterplot shows also a positive linear relationship between average temperature and annual carbondioxide emission. The pearson correlation has 0.761 strong value. <br>
 
 <p align ="center">
 <img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/" width = "500"

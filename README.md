@@ -48,15 +48,15 @@ Let's we see how be the descriptive analysis for Surface Temperature;
 
 There was the median surface temperature and mean surface temperature 14.30 &deg;C and 14.33 &deg;C respectivly.
 
-
+### Boxplot of Global Surface Temperature
 <p align ="center">
 <img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/boxplot_temperature.png" width="500"
     </p>
     
-The boxplot summarizes the distribution of average surface temperature values. There is an outliler, but we does not remove.
+The boxplot summarizes the distribution of average global surface temperature values. There is an outliler, but we does not remove.
 
 <p align ="center">
-<img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/time_series_plot_of_temperature_vs_fossil_fuel.png" width = "500"
+<img src = "" width = "500"
     </p>
     
 

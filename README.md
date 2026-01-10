@@ -49,26 +49,33 @@ Let's we see how be the descriptive analysis for Surface Temperature;
 
 There was the median surface temperature and mean surface temperature 14.30 &deg;C and 14.33 &deg;C respectivly.
 
-### Boxplot of Global Surface Temperature
+### Boxplots
 <p align ="center">
 <img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/boxplot_temperature.png" width="500"
     </p>
     
 The boxplot summarizes the distribution of average global surface temperature values. There is an outliler, but does not remove.
 
+### Scatterplots
 <p align ="center">
 <img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/temperature vs fosill fuel assumption.png" width = "500"
     </p>
 
 <strong> Pearson correlation of Fossil fuel consumption = 0.908 <br>
 P-Value = 0.000 </strong> <br>
-The scatterplot shows a positive linear relationship between Average temperature and Fosill fuel consumption with strong upward pattern can be obseved. The Pearson correlation coefficint is used to measure to the strength and direction of this linear relationship.
+The scatterplot shows a positive linear relationship between Average temperature and Fosill fuel consumption with strong upward pattern can be obseved. The Pearson correlation coefficint is used to measure to the strength and direction of this linear relationship. <br>
 
 <p align ="center">
-<img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/temperature_vs_Nitrogen_Fertilizers.png" width = "500"
+<img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/scatterplot_of_temperature_vs_anual_carbondioxide_emission.png" width = "500"
     </p>
     
+<strong> Pearson correlation of Average surface temperature and Nitrogen Fertilizers = 0.830 <br>
+P-Value = 0.000</strong> <br>
+This scatterplot shows also a positive linear relationship between average temperature and using nitrogrn fertilizers in agriculture. The pearson correlation has 0.830 strong value. <br>
 
+<p align ="center">
+<img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/" width = "500"
+    </p>
 
 
 

@@ -10,11 +10,12 @@ The analysis focuses on identifying trends, relationship, and patterns in climat
 
 ## Methodology
 - data source: https://ourworldindata.org/
+- already used secondary data
 - Key Variables:
-    Global average surface temperature
-    Global CO<sub>2</sub> emission
-    Global fossil fuel consumption
-    Nitrogen fertilizers in agriculture
+    - Global average surface temperature
+    - Global CO<sub>2</sub> emission
+    - Global fossil fuel consumption
+    - Nitrogen fertilizers in agriculture
 
 The study follows these steps:
   - Data cleaning and processing

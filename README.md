@@ -54,10 +54,18 @@ There was the median surface temperature and mean surface temperature 14.30 &deg
 <img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/boxplot_temperature.png" width="500"
     </p>
     
-The boxplot summarizes the distribution of average global surface temperature values. There is an outliler, but we does not remove.
+The boxplot summarizes the distribution of average global surface temperature values. There is an outliler, but does not remove.
 
 <p align ="center">
-<img src = "" width = "500"
+<img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/temperature vs fosill fuel assumption.png" width = "500"
+    </p>
+
+<strong> Pearson correlation of Fossil fuel consumption = 0.908 <br>
+P-Value = 0.000 </strong> <br>
+The scatterplot shows a positive linear relationship between Average temperature and Fosill fuel consumption with strong upward pattern can be obseved. The Pearson correlation coefficint is used to measure to the strength and direction of this linear relationship.
+
+<p align ="center">
+<img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/scatterplot of nitrogen fertilizers" width = "500"
     </p>
     
 

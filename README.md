@@ -82,6 +82,13 @@ This scatterplot shows also a positive linear relationship between average tempe
 P-Value = 0.000 </strong> <br>
 This scatterplot shows also a positive linear relationship between average temperature and used nitrogen fertilizers in agriculture. The pearson correlation has 0.830. <br>
 
+Then, the dataset was splited into two periods. There are; <br>
+1980-2000 and 2000-2025 <br>
+
+### 1980-2000
+<p align ="center">
+
+
 
 
 

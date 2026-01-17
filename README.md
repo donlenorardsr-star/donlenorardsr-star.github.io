@@ -82,14 +82,48 @@ This scatterplot shows also a positive linear relationship between average tempe
 P-Value = 0.000 </strong> <br>
 This scatterplot shows also a positive linear relationship between average temperature and used nitrogen fertilizers in agriculture. The pearson correlation has 0.830. <br>
 
-Then, the dataset was splited into two periods. There are; <br>
+<strong> The above scatterplots show strong positive linear relationship as well as statistically significant between averatge temperature. </stong>
+
+After that, the dataset was splited into two periods. There are; <br>
 1980-2000 and 2000-2025 <br>
 
 ### 1980-2000
+<strong> Scatterplot of Average Temperature vs Fossil fuel consumption </strong>
 <p align ="center">
+<img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/temp_vs_fossill.png" width = "500"
+    </p>
+
+<strong> Pearson correlation of Average surface temperature and Fossil fuel consumption = 0.531 <br>
+P-Value = 0.013 </strong> <br>
+
+The scattreplot of average temperature against fossil fuel consumption shows a moderate positive linear relationship. The pearson correlation was 0.531 and p-value was 0.013 < 0.05, statistically significant.<br>
+
+<strong> Scatterplot of Avarage Temperature vs Annual carbondioxide emissions </strong>
+<p align ="center"> 
+<img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/temp_vs_CO2.png" width = "500"
+    </p>
+
+    
+<strong> Pearson correlation of Average surface temperature and Annual carbondioxide emissions = 0.140 <br>
+P-Value = 0.544 </strong> <br>
+
+The scatterplot of average tempertaure against annual CO<sub>2</sub> emissions shows a weak positive linear relationship. The pearson correlation (0.140) shows a very weak association between two variables. The p-value was greater than 0.05, It's mean there was insignificance. <br>
+
+<strong>  Scatterplot of Average Temperature vs Nitrogen fertilizers in agriculture </strong>
+<p align ="center"> 
+<img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/temp_vs_nitrogen.png" width = "500"
+    </p>
 
 
+<strong> Pearson correlation of Average surface temperature and Nitrogen fertilizers in agriculture  = 0.490 <br>
+P-Value = 0.024 </strong> <br>
 
+The scatterplot of average temperature against nitrogen fertilizers use in agriculture shows a moderate positive linear relationship. The pearson correaltion was 0.490 and p-value was 0.024 < 0.05, statistically significant. <br>
+
+<strong> The above three scatterplot and pearson correaltion analyses shows relationship between avearge temperature and other factors since 1980 to 2000. The relationship between average temperature and annual CO<sub>2</sub> emission was weak and statistically insignificant. In contrast, fossil fuel consumption shows a moderate and statistically significant positive relationship with temperature. Similarly, nitrogen fertilizers also showa a moderate positive and statistically significant. Overall, these results can be suggest that fossil fuel consumption and nitrogen fertilizers may have a more direct and measurable effectis with global temperature than annual CO<sub>2</sub> emissions. </strong>
+
+### 2000-2025
+<strong> Scatterplot of Average Temperature vs Fossil fuel consumption </strong>
 
 
 

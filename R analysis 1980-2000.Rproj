@@ -1,0 +1,65 @@
+library(tidyverse)
+library(readxl)
+library(dplyr)
+
+a <- Data_1980_2000$`Fossil fuel consumption 2000`
+b <- Data_1980_2000$`Average surface temperature`
+c <- Data_1980_2000$`Nitrogen Fertilizers kilogram`
+d <- Data_1980_2000$`Annual CO2 emissions`
+getwd()
+
+summarise(Data_1980_2000)
+summary(a)
+summary(d)
+
+ggplot(Data_1980_2000, aes(x= `Average surface temperature`,y=`Fossil fuel consumption 2000`)) +
+  geom_point( color = "green", size = 1.8) +
+  labs(
+    title = "Scatterplot of Temperature vs Fossil Fuel Consumption (1980-2000)",
+    x = "Average Temperature",
+    y = "Fossil fuel consumption ",
+  ) +
+   theme_classic()
+
+ggsave(
+  "C:/Users/USER/Downloads/ temp_vs_fossill.png",
+  width = 10,
+  height = 4,
+  dpi = 300
+)
+
+ggplot(Data_1980_2000, aes(x=`Average surface temperature`, y = `Nitrogen Fertilizers kilogram`)) + 
+  geom_point(color = "green", size = 1.8) +
+  labs(
+    title = "Scatterplot of Temperature vs Used nitrogen fertilizers (1980-2000)",
+    x = "Average Temperature",
+    y = "Nitrogen fertilizers",
+  ) +
+  theme_classic()
+
+ggsave(
+  "C:/Users/USER/Downloads/temp_vs_nitrogen.png",
+  width = 10,
+  height = 4,
+  dpi = 300
+)
+
+ggplot(Data_1980_2000, aes(x=`Average surface temperature`, y= `Annual CO2 emissions`)) +
+  geom_point(color = "green",size = 1.8) +
+  labs(
+    title = "Scatterplot of Temperature vs Annual CO2 emissions (1980-2000)",
+    x= "Average Temperature",
+    y = "Annual CO2 emissions",
+  ) +
+  theme_classic()
+
+ggsave(
+  "C:/Users/USER/Downloads/temp_vs_CO2.png",
+  width = 10,
+  height = 4,
+  dpi = 300
+)
+
+
+
+

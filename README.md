@@ -161,7 +161,6 @@ The scatterplot of average temperature against nitrogen fertilizers use in agric
 
 <strong> For the period 2000-2025, fossil fuel consumption showed a very strong and significant coorealtion with temperature, while CO<sub>2</sub> emissions and nitrogen fertilizers use exhibited moderate but statistically significant positive relationship. Overall can be say fossil fuel consumption more directly affected to increase global warming.
 
-## Modeling
 
 
 

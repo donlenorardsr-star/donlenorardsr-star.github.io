@@ -1,4 +1,4 @@
-# Analysis of the factors of increasing global warming
+# Analysis of Global Warming Factors
 ## Introduction
 Global warming is one of most critical enviornment challenges facing the world today. This study aims to analyze key factors contributing to the increase in global warming. 
 The analysis focuses on identifying trends, relationship, and patterns in climate changes.

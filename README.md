@@ -46,6 +46,7 @@ Let's we see how be the descriptive analysis for Surface Temperature;
 | <p align="center"> Mean   | 14.33021 |
 | <p align="center"> Minimum | 13.84963 |
 | <p align="center"> Maximum | 15.09097 |
+<p align ="center"> <strong> Figure 01 - Table of important statistical values </strong>
 
 There was the median surface temperature and mean surface temperature 14.30 &deg;C and 14.33 &deg;C respectivly.
 

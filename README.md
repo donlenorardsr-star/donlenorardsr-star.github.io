@@ -46,7 +46,8 @@ Let's we see how be the descriptive analysis for Surface Temperature;
 | <p align="center"> Mean   | 14.33021 |
 | <p align="center"> Minimum | 13.84963 |
 | <p align="center"> Maximum | 15.09097 |
-<p align ="center"> <strong> Figure 01 - Table of important statistical values </strong>
+
+<strong> Figure 01 - Table of important statistical values </strong>
 
 There was the median surface temperature and mean surface temperature 14.30 &deg;C and 14.33 &deg;C respectivly.
 
@@ -54,13 +55,18 @@ There was the median surface temperature and mean surface temperature 14.30 &deg
 <p align ="center">
 <img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/boxplot_temperature.png" width="500"
     </p>
+<p align ="center"> <strong> Figure 02 - Boxplot of average temperature </strong>
     
 The boxplot summarizes the distribution of average global surface temperature values. There is an outliler, but does not remove.
+
 
 ### Scatterplots
 <p align ="center">
 <img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/temperature vs fosill fuel assumption.png" width = "500"
     </p>
+
+<p align ="center"> <strong> Figure 03 - Scatterplot of average temperature vs fosill fuell consumption </strong> <br>
+
 
 <strong> Pearson correlation of Fossil fuel consumption = 0.908 <br>
 P-Value = 0.000 </strong> <br>
@@ -69,6 +75,8 @@ The scatterplot shows a positive linear relationship between Average temperature
 <p align ="center">
 <img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/scatterplot_of_temperature_vs_anual_carbondioxide_emission.png" width = "500"
     </p>
+<p align ="center"> <strong> Figure 04 - Scatterplot of average temperature vs annual carbondioxide emmission </strong> <br>
+
     
 <strong> Pearson correlation of Average surface temperature and annual carbondioxide emission = 0.761 <br>
 P-Value = 0.000</strong> <br>
@@ -77,7 +85,7 @@ This scatterplot shows also a positive linear relationship between average tempe
 <p align ="center">
 <img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/temperature_vs_Nitrogen_Fertilizers.png" width = "500"
     </p>
-
+<p align ="center"> <strong> Figure 05 - Scatterplot of average temperature vs used nitrogen fertilizers in agriculture </strong> <br>1
     
 <strong> Pearson correlation of Average surface temperature and using nitrogen fertilizers  = 0.830 <br> 
 P-Value = 0.000 </strong> <br>
@@ -94,6 +102,9 @@ After that, the dataset was splited into two periods. There are; <br>
 <img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/temp_vs_fossill.png" width = "500"
     </p>
 
+<p align ="center"> <strong> Figure 06 - Scatterplot of average temperature vs fosill fuell consumption since 1980-2000 </strong> <br>
+
+
 <strong> Pearson correlation of Average surface temperature and Fossil fuel consumption = 0.531 <br>
 P-Value = 0.013 </strong> <br>
 
@@ -103,8 +114,8 @@ The scattreplot of average temperature against fossil fuel consumption shows a m
 <p align ="center"> 
 <img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/temp_vs_CO2.png" width = "500"
     </p>
+<p align ="center"> <strong> Figure 07 - Scatterplot of average temperature vs annual carbondioxide emission since 1980-2000 </strong> <br>
 
-    
 <strong> Pearson correlation of Average surface temperature and Annual carbondioxide emissions = 0.140 <br>
 P-Value = 0.544 </strong> <br>
 
@@ -114,7 +125,7 @@ The scatterplot of average tempertaure against annual CO<sub>2</sub> emissions s
 <p align ="center"> 
 <img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/temp_vs_nitrogen.png" width = "500"
     </p>
-
+<p align ="center"> <strong> Figure 08 - Scatterplot of average temperature vs use nitrogen fertilizers in agriculture </strong> <br>
 
 <strong> Pearson correlation of Average surface temperature and Nitrogen fertilizers in agriculture  = 0.490 <br>
 P-Value = 0.024 </strong> <br>
@@ -129,7 +140,8 @@ The scatterplot of average temperature against nitrogen fertilizers use in agric
 <p align ="center"> 
 <img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/tem_vs_fossil.png" width = "500"
     </p>
-
+<p align ="center"> <strong> Figure 09 - Scatterplot of average temperature vs fosill fuell consumption since 2000-2025 </strong> <br>
+    
 <strong> Pearson correlation of Average temperature and Fossil fuel consumption = 0.816 <br>
 P-Value = 0.000 </strong>
 
@@ -141,7 +153,8 @@ The scattreplot of average temperature against fossil fuel consumption shows a s
 <p align ="center"> 
 <img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/tem_vs_CO2.png" width = "500"
     </p>
-
+<p align ="center"> <strong> Figure 10 - Scatterplot of average temperature vs annual carbondioxide emission </strong> <br>
+    
 <strong> Pearson correlation of Average surface temperature and Annual CO2 emissions = 0.448 <br>
 P-Value = 0.025 </strong> 
 
@@ -154,13 +167,19 @@ The scattreplot of average temperature against annual CO<sub>2</sub> shows a mod
 <p align ="center"> 
 <img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/tem_vs_niteogen.png" width = "500"
     </p>
-
+<p align ="center"> <strong> Figure 11 - Scatterplot of average temperature vs use nitrogen fertilizers in agriculture since 2000-2025 </strong> <br>
+    
 <strong> Pearson correlation of Average surface temperature and Nitrogen Fertilizers = 0.570 <br>
 P-Value = 0.003 </strong>
 
 The scatterplot of average temperature against nitrogen fertilizers use in agriculture shows a moderate positive linear relationship. The pearson correaltion was 0.570 and p-value was 0.003 as well as statistically significant. <br>
 
 <strong> For the period 2000-2025, fossil fuel consumption showed a very strong and significant coorealtion with temperature, while CO<sub>2</sub> emissions and nitrogen fertilizers use exhibited moderate but statistically significant positive relationship. Overall can be say fossil fuel consumption more directly affected to increase global warming.
+
+
+## Conclusions
+
+
 
 
 

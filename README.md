@@ -178,6 +178,8 @@ The scatterplot of average temperature against nitrogen fertilizers use in agric
 
 
 ## Conclusions
+The relationship between average global temperature and human related factors was examined using scatterplots and pearson correlation techniques. A strong and statistically significant possitive association was identified between fossil fuel consumption and average global temperature, paticulary during the period 2000-2025. Nitrogrn fertilizer was also found to exhibit moderate and statistically significant positive relationship with temperature. Althrough annual CO<sub>2</sub> emissions demonstrated a weak and statistically insignificant association since 1980-2025 a moderate and statistically significant relationship was showed. <br>
+As summary fossil fuel consumption and fertilizer use was showed significant positive association with rising global temperatures, especially after 2000. CO<sub>2</sub> emission also show a significant relationship in recent years. This will be that human activities have increasingly influenced global warming trends.
 
 
 

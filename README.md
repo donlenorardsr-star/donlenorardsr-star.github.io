@@ -1,42 +1,15 @@
 # Analysis of Global Warming Factors
 ## Introduction
-Global warming is one of most critical enviornment challenges facing the world today. This study aims to analyze key factors contributing to the increase in global warming. 
+<strong> Global warming is one of most critical enviornment challenges facing the world today. This study aims to analyze key factors contributing to the increase in global warming. 
 The analysis focuses on identifying trends, relationship, and patterns in climate changes.
 
 ## Objectives
-- To analyze long-term trends in global temperature changes
-- To identify factors associated with increasing global warming
-- To visualize relationships using scatterplots and time series plots
+The primary objective of this study is to analyze the long term trends in global temperature and key factors associated with the increase global warming. Specifically, the study aims to examine the relationship between global temperature and fossil fuel consumption, annual CO<sub>2</sub> emission and nitrogen fertilizer (urea/ammonium nitrate, or ammonium sulfate) use in agriculture. The one of most important objective is devolop a multiple linear regression model to quantify the combined effect of these variables on global temperature. 
+
 
 ## Methodology
-- data source: https://ourworldindata.org/
-- already used secondary data
-- Key Variables:
-    - Global average surface temperature
-    - Global CO<sub>2</sub> emission
-    - Global fossil fuel consumption
-    - Nitrogen fertilizers in agriculture
+<strong> This study is based on secondary data obtained from https://ourworldindata.org/. The analysis is followed a structured approach beginning with data cleaning and preprocessing to ensure consistency and accuracy. Descriptive statistical analysis was concluded to understand the basic characteristics of the data. Data visualization techniques, including boxplots, histograms, scatterplots were used to explore temperature trends and relationship between variables. The analysis was concluded using R programming with key tools including ggplot2 for visualization and tidyverse package for data handling and modelling. </strong>
 
-The study follows these steps:
-  - Data cleaning and processing
-  - Descriptive data analysis
-  - Scatterplot analysis
-  - Time series analysis to observe long-term temperature trends
-
-## Data Visualization
-### Scatterplots
-- Used to identify relatinship between global warming and contributing factors
-- Helps identify correaltion
-- Check pearson correlatons for each them
-
-### Time series plots
-- Used to analyze temperature, CO<sub>2</sub> emission,Fossil fuel consumption, and Nitrogen fertilizers trends over time
-- Helps to understand upwards and seasonal patterns
-
-## Tools
-- ggplot
-- Tidyverse
-- Minitab 16
 
 ## Results
 Let's we see how be the descriptive analysis for Surface Temperature;
@@ -155,7 +128,7 @@ The scattreplot of average temperature against fossil fuel consumption shows a s
     </p>
 <p align ="center"> <strong> Figure 10 - Scatterplot of average temperature vs annual carbondioxide emission </strong> <br>
     
-<strong> Pearson correlation of Average surface temperature and Annual CO2 emissions = 0.448 <br>
+<strong> Pearson correlation of Average surface temperature and Annual CO<sub>2</sub> emissions = 0.448 <br>
 P-Value = 0.025 </strong> 
 
 The scattreplot of average temperature against annual CO<sub>2</sub> shows a moderate positive linear relationship. The pearson correlation was 0.448 and p-value was 0.025 as well as statistically insignificant.<br>
@@ -175,6 +148,9 @@ P-Value = 0.003 </strong>
 The scatterplot of average temperature against nitrogen fertilizers use in agriculture shows a moderate positive linear relationship. The pearson correaltion was 0.570 and p-value was 0.003 as well as statistically significant. <br>
 
 <strong> For the period 2000-2025, fossil fuel consumption showed a very strong and significant coorealtion with temperature, while CO<sub>2</sub> emissions and nitrogen fertilizers use exhibited moderate but statistically significant positive relationship. Overall can be say fossil fuel consumption more directly affected to increase global warming.
+
+## Modelling 
+
 
 
 ## Conclusions

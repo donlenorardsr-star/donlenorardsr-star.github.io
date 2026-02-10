@@ -4,7 +4,7 @@
 The analysis focuses on identifying trends, relationship, and patterns in climate changes.
 
 ## Objectives
-The primary objective of this study is to analyze the long term trends in global temperature and key factors associated with the increase global warming. Specifically, the study aims to examine the relationship between global temperature and fossil fuel consumption, annual CO<sub>2</sub> emission and nitrogen fertilizer (urea/ammonium nitrate, or ammonium sulfate) use in agriculture. The one of most important objective is devolop a multiple linear regression model to quantify the combined effect of these variables on global temperature. 
+The primary objective of this study is to analyze the long term trends in global temperature and key factors associated with the increase global warming. Specifically, the study aims to examine the relationship between global temperature and fossil fuel consumption (, annual CO<sub>2</sub> emission and nitrogen fertilizer (urea/ammonium nitrate, or ammonium sulfate) use in agriculture. The one of most important objective is devolop a multiple linear regression model to quantify the combined effect of these variables on global temperature. 
 
 
 ## Methodology
@@ -150,10 +150,20 @@ The scatterplot of average temperature against nitrogen fertilizers use in agric
 <strong> For the period 2000-2025, fossil fuel consumption showed a very strong and significant coorealtion with temperature, while CO<sub>2</sub> emissions and nitrogen fertilizers use exhibited moderate but statistically significant positive relationship. Overall can be say fossil fuel consumption more directly affected to increase global warming.
 
 ## Modelling 
+The log-transformed multiple linear regression model was devolped. The model is included nitrogen fertilizer, annual CO<sub>2</sub> emissions and fossil fuel consumption as explannatory variables. The results is demostrated that the model has 0.855 R-sq value, including that over 85% of the variation in global temperature is explained by this. But the variable of annual CO<sub>2</sub> were removed from the model. Because which is statistically insignificant at 5% level (p-value < 0.05). The final Log multiple linear regression model was; <br>
+<p align ="center"> 
+<img src = "https://github.com/donlenorardsr-star/donlenorardsr-star.github.io/blob/main/modelling.png" width = "500"
+    </p>
+    <p align ="center"> <strong> Figure 12: Picture of model coefficient
+
+`log(Global_temperature) = (1.15 + 0.000001(Fossil_fuel_consumption)- 0.000482(Nitrogen_Fertilizer))` <br>
+
+    
+In this model was demostrated that one unit increase in fossil fuel consumption is associated with an approximate 0.00014% increase in global temperature, holding other variable constant.
 
 
 
-## Conclusions
+## Furthermore Discussion
 The relationship between average global temperature and human related factors was examined using scatterplots and pearson correlation techniques. A strong and statistically significant possitive association was identified between fossil fuel consumption and average global temperature, paticulary during the period 2000-2025. Nitrogrn fertilizer was also found to exhibit moderate and statistically significant positive relationship with temperature. Althrough annual CO<sub>2</sub> emissions demonstrated a weak and statistically insignificant association since 1980-2025 a moderate and statistically significant relationship was showed. <br>
 As summary fossil fuel consumption and fertilizer use was showed significant positive association with rising global temperatures, especially after 2000. CO<sub>2</sub> emission also show a significant relationship in recent years. This will be that human activities have increasingly influenced global warming trends.
 
